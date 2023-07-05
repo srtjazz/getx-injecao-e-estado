@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:teste_getx/controllers/user_controller.dart';
-
+import 'controllers/user_controller.dart';
 import 'screens/home_page.dart';
 
 void main() {
